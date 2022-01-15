@@ -1,9 +1,9 @@
-### Hi there Welcome to DavitTec 👋
+### Hi there Welcome to DavitTec
 
 ## Find me around somewhere 🌎: <a href="https://github.com/sponsors/DavitTec"></a>
-- WE are in the public domain <a href="https://www.twitch.tv/DavitTec">Twitch</a> 
+- We are in the public domain <a href="https://www.twitch.tv/DavitTec">Twitch</a> 
 - DAVIT <a href="https://www.davit.ie">Davit.ie</a>
-- Tinkering with interactions on <a href="https://codepen.io/DavitTec"> Codepen</a>
+- Interactions on <a href="https://codepen.io/DavitTec"> Codepen</a>
 - Sharing updates on Davit via <a href="https://www.linkedin.com/company/davit/">LinkedIn</a>
 
 <!--

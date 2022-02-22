@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
+
+## Support me
+![Liberapay giving](https://img.shields.io/liberapay/gives/davittec?color=dc1c5c&label=giving&logo=https%3A%2F%2Fgithub.com%2FDavitTec%2Fdavittec.github.io%2Fblob%2Fmaster%2Fassets%2Fimg%2Fdavit.png&style=plastic)
